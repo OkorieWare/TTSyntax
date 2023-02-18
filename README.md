@@ -4,6 +4,10 @@ Detect and switch VSCode syntax to the underlying language of a TT (Text Templat
 
 No more error squiggly lines.
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/OkorieWare/TTSyntax)](https://github.com/OkorieWare/TTSyntax/releases/latest)
+
+[![Homepage: OkorieWare Software House](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-orange)](https://okorieware.ga/)
+
 ## Release Notes
 
 Install the extension in VSCode.

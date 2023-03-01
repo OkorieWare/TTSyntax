@@ -22,10 +22,6 @@ VSCode (Visual Studio Code)
 
 TODO: Low priority
 
-- In order to achieve the desired effect, TTSyntax also disabled validation for (JavaScript, SCSS) .tt documents.
+- In order to achieve the desired effect, TTSyntax also suspends validation for (JavaScript, SCSS, JSON) .tt documents.
 
-- VSCode only activates the extension after the first .tt document is loaded. For the time being, when you initially open a VSCode window, you will need to re-open your .tt document, or toggle your .tt document tab and another tab.
-
-## 1.0.1
-
-Initial release of TTSyntax
+- VSCode only activates the extension after the first .tt document is loaded. For the time being, when you initially open a VSCode window, you will need to re-open your .tt document, or toggle between another tab and your .tt document tab.

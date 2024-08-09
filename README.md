@@ -6,7 +6,7 @@ No more error squiggly lines.
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/OkorieWare/TTSyntax)](https://github.com/OkorieWare/TTSyntax/releases/latest)
 
-[![Homepage: OkorieWare Software House](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-orange)](https://okorieware.ga/)
+[![Homepage: OkorieWare Software House](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-orange)](https://github.com/OkorieWare/TTSyntax/)
 
 ## Release Notes
 
